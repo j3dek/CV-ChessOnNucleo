@@ -49,6 +49,15 @@ Projekt implementuje grę w szachy w języku C na płytce rozwojowej NUCLEO-L476
     * Zmienia aktywnego gracza.
     * Pętla powtarza się do zakończenia gry (mat, pat, poddanie, koniec czasu).
 
+## 📸 Zrzuty ekranu
+![6e6140be-1f8d-434f-bbc2-756d7ee9e1a0](https://github.com/user-attachments/assets/3fc0f25a-0ac2-401b-ac96-b9f288a7918a)
+
+
+
+https://github.com/user-attachments/assets/9630485f-4461-416b-83ef-c46742a37a0d
+
+
+
 ## Autorzy 
 
 * Jedrzej Steckiewicz
